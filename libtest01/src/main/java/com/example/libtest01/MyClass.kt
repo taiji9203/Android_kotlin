@@ -5,5 +5,5 @@ class MyClass {
 
 fun main(){
 
-    println("taiji")
+    println("taiji9203")
 }
