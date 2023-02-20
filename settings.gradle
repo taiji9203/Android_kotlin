@@ -16,3 +16,4 @@ rootProject.name = "Android_workspace"
 include ':app'
 include ':mytest01'
 include ':libtest01'
+include ':mytest01:test01'
